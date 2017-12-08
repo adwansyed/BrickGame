@@ -1,0 +1,16 @@
+C:\Users\Onique\AppData\Local\Temporary Projects\BrickGame\bin\Debug\BrickGame.exe
+C:\Users\Onique\AppData\Local\Temporary Projects\BrickGame\bin\Debug\BrickGame.pdb
+C:\Users\Onique\AppData\Local\Temporary Projects\BrickGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Onique\AppData\Local\Temporary Projects\BrickGame\obj\Debug\BrickGame.Form1.resources
+C:\Users\Onique\AppData\Local\Temporary Projects\BrickGame\obj\Debug\BrickGame.Properties.Resources.resources
+C:\Users\Onique\AppData\Local\Temporary Projects\BrickGame\obj\Debug\BrickGame.csproj.GenerateResource.Cache
+C:\Users\Onique\AppData\Local\Temporary Projects\BrickGame\obj\Debug\BrickGame.exe
+C:\Users\Onique\AppData\Local\Temporary Projects\BrickGame\obj\Debug\BrickGame.pdb
+C:\Users\Onique\Desktop\BrickGame\BrickGame\BrickGame\obj\Debug\BrickGame.exe
+C:\Users\Onique\Desktop\BrickGame\BrickGame\BrickGame\obj\Debug\BrickGame.pdb
+C:\Users\Onique\Desktop\BrickGame\BrickGame\BrickGame\bin\Debug\BrickGame.exe
+C:\Users\Onique\Desktop\BrickGame\BrickGame\BrickGame\bin\Debug\BrickGame.pdb
+C:\Users\Onique\Desktop\BrickGame\BrickGame\BrickGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Onique\Desktop\BrickGame\BrickGame\BrickGame\obj\Debug\BrickGame.Form1.resources
+C:\Users\Onique\Desktop\BrickGame\BrickGame\BrickGame\obj\Debug\BrickGame.Properties.Resources.resources
+C:\Users\Onique\Desktop\BrickGame\BrickGame\BrickGame\obj\Debug\BrickGame.csproj.GenerateResource.Cache
